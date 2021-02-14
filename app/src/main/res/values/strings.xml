@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Citas</string>
+    <string name="button1">Get quotations</string>
+    <string name="button2">Favourite quotations</string>
+    <string name="button3">Settings</string>
+    <string name="button4">About</string>
+    <string name="str1">Quotation Shake</string>
+    <string name="str2">Random quotations</string>
+    <string name="str3">Favourite quotations</string>
+    <string name="str4">Settings</string>
+    <string name="str5">About</string>
+    <string name="str6">Quotation  Shake  by \n\nRoberth Moreira\n\nromobar1@inf.upv.es\n\n2020</string>
+    <string name="setting1">Name  that identifies  the  user</string>
+    <string name="setting2">Insert  your  name</string>
+    <string name="setting3">Quotations will be received in the selected language</string>
+    <string name="setting4">Web request be performed using the selected HTTP method</string>
+    <string name="get">GET</string>
+    <string name="post">POST</string>
+</resources>
